@@ -1,0 +1,17 @@
+table {
+	width: 70%;
+    table-layout: fixed;
+    border-spacing: 2px;
+  }
+  table tr th {
+	text-align: center;
+	background: gray;
+    color: white;
+    padding: 15px;
+  }
+table tr td {
+	text-align: left;
+	background: blue;
+	color: white;
+	padding: 10px;
+  }

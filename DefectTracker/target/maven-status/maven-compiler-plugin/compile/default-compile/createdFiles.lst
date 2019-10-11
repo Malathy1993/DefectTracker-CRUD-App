@@ -1,0 +1,8 @@
+com\sgic\controller\DefectController.class
+com\sgic\entity\Defect.class
+com\sgic\exception\ResourceNotFoundException.class
+com\sgic\DefectTrackerApplication.class
+com\sgic\repository\DefectRepostories.class
+com\sgic\repository\ProjectRepository.class
+com\sgic\controller\ProjectController.class
+com\sgic\entity\Project.class

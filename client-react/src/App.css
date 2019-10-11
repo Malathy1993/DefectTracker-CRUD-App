@@ -1,0 +1,57 @@
+/* Body css */
+
+.body {
+    margin-left: 15%;
+}
+
+.button {
+    /* background-color: #008CBA; */
+}
+
+
+/* Blue */
+
+.red {
+    background-color: #f44336;
+}
+
+
+/* Red */
+
+.green {
+    background-color: #4CAF50;
+}
+
+
+/* Green */
+
+.form-control[type=text],
+[type=textarea] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.form-control[type=textarea] {
+    right: 20%;
+    height: 50%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    background-color: blueviolet;
+}
+
+li a {
+    display: block;
+    background-color: blueviolet;
+}
+
+.textarea {
+    height: 200px;
+}
